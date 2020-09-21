@@ -489,4 +489,31 @@ header a {
     font-size: 1rem;
   }
 
+  .company-logo{
+    height: 70px;
+    width: 70px;
+    top: 50px;
+    left: 13%;
+  }
+
+  .company-logo img{
+    /* margin: 15px 0px; */
+    height: 70px;
+    width: 70px;
+  }
+
+  .year{
+    width: 70px;
+    height: 70px;
+    top: 50px;
+    right: 13%;
+    left: unset;
+    font-size: 40px;
+}
+
+.year span{
+  top: 11px;
+  left: 8px;
+}
+
 }
